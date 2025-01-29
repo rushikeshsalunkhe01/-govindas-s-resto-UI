@@ -1,6 +1,12 @@
+//export const RESTO_NAME = "Ananda's Kitchen ISKCON";
+// //export const RESTO_DESC = "Savor blissful vegetarian delights at Ananda's Kitchen, ISKCON. Fresh, sattvic, and made with devotion.";
+// //export const RESTO_IMAGE = "src/assets/anandas_kitchen.jpg"; // Reference directly from public folder
+// export const BUTTON1 = "Explore Menu";
+// export const BUTTON2 = "Get In Touch";
+// export const RESTO_DETAILS = "Ananda's Kitchen offers a range of flavorful vegetarian dishes, inspired by the teachings of Lord Krishna and crafted with pure, sattvic ingredients. The restaurant emphasizes the importance of healthy, spiritually enriching food, prepared with care and devotion. Drawing from the ancient wisdom of the Bhagavad Gita, Ananda's Kitchen is committed to providing nourishing meals that elevate the soul. With locations around the world, each restaurant creates a serene environment, often featuring devotional activities such as kirtan, prayer, and spiritual discourse.";
 export const RESTO_NAME = "Govinda's Resto ISKCON";
 export const RESTO_DESC = "Experience divine vegetarian cuisine at Govinda's Resto, ISKCON. Fresh, sattvic, and made with love.";
 export const RESTO_IMAGE = "src/assets/govindas_resto.jpg"; // Reference directly from public folder
 export const BUTTON1 = "View Menu";
 export const BUTTON2 = "Contact Us";
-export const RESTO_DETAILS = "Govinda's Resto offers a serene dining experience with delicious sattvic meals prepared with devotion. Located inside ISKCON, our restaurant serves pure vegetarian and vegan delicacies made from fresh, organic ingredients. Enjoy a variety of traditional Indian thalis, refreshing beverages, and delightful desserts in a peaceful, spiritual atmosphere. Open daily from 10 AM to 9 PM.";
+export const RESTO_DETAILS = "Govindas is a well-known vegetarian restaurant, often associated with the International Society for Krishna Consciousness (ISKCON). The restaurant serves a variety of vegetarian dishes, typically inspired by traditional Indian cuisine. It focuses on offering wholesome, sattvic (pure) food prepared with love and devotion, often following principles from the teachings of the Bhagavad Gita and other Vedic texts.Govindas restaurants are located in multiple cities worldwide, and they often feature a peaceful and spiritual atmosphere that aligns with the ethos of ISKCON. Some of them also include spiritual activities like chanting, kirtan, or lectures.";
